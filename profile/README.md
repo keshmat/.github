@@ -1,4 +1,4 @@
-![Keshmat Classroom](./keshmat_banner.jpeg)
+![Keshmat Classroom](./profile/keshmat_banner.jpeg)
 
 ```
  __  __     ______     ______     __  __     __    __     ______     ______
